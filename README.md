@@ -1,11 +1,23 @@
-# Intermodular 09  
-## Sitio web de ejemplo
+# Activitat 09 – Projecte Intermodular 1r DAW  
+## Desplegament en Github Pages amb Github Actions
 
-| **Elemento** | **Descripción** |
-|--------------|------------------|
-| ![Imagen](imagen.jpg) | Imagen utilizada en el proyecto |
+Aquest projecte forma part de l'Activitat 09 del mòdul de DAW.  
+Consisteix en crear un lloc web amb HTML i CSS, desplegar-lo amb GitHub Pages i automatitzar modificacions amb GitHub Actions.
 
-### Desplegaments amb Github Actions
-- MjoseBH modifica el repo MjoseBH/intermodular09mjose : Thu Jan 15 11:23:58 UTC 2026
-- MjoseBH modifica el repo MjoseBH/intermodular09mjose : Thu Jan 15 11:28:05 UTC 2026
-- MjoseBH modifica el repo MjoseBH/intermodular09mjose : Thu Jan 15 11:32:06 UTC 2026
+---
+
+## Taula d’elements utilitzats
+
+| **Element**                  | **Descripció**                          |
+|-----------------------------|------------------------------------------|
+| Imatge del projecte         | ![Imatge](imagen.jpg)                   |
+
+---
+
+## Modificació del fitxer README.md amb Github Actions
+
+Aquest apartat mostra les modificacions automàtiques que s'han fet al fitxer README.md mitjançant el workflow.
+
+---
+
+
